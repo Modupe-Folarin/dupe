@@ -1,0 +1,38 @@
+.masthead-intro {
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 2em;
+}
+.masthead-heading {
+    color: #424242;
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+.masthead {
+    padding: 6em 0;
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/04/07/59/salt-harvesting-3060093__340.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: solid 1em #FFCF33;
+  }
+  .masthead-intro {
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book Basic", Georgia, serif;
+      font-size: 2em;
+  }
+  .masthead-heading {
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 5em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+  }
+  .box-1{
+      margin-right: 40px;
+      margin-left: 40px;
+  }

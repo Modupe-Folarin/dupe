@@ -1,0 +1,86 @@
+   
+              
+  .contain{
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+      background-repeat: no-repeat;
+  }
+  #showcase{
+      background-image: url(https://media.istockphoto.com/photos/female-old-hand-on-soilearth-closeup-concept-of-old-ageyouth-life-picture-id687716000?b=1&k=6&m=687716000&s=170667a&w=0&h=bcdqeXg3bK_-jxtdHClzUGJh3_jUd37S6-nkdFDNq9g=);
+      background-position: center-right;
+      min-height: 300px;
+      margin-bottom: 30px;
+      text-align: center;
+  }
+  #showcase h1{
+      color: snow;
+      font-size: 50px;
+      line-height: 1.6em;
+      padding-top: 30px;
+  }
+  .box{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+#box-1{
+    background-color: snow;
+    background-position: center-right;
+    min-height: 300px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#box-1 h3{
+    color: green;
+    font-size: 20px;
+    line-height: 1.6em;
+    padding-top: 30px;
+}
+#box-1 button{
+    border: none; 
+    outline: 0; 
+    display: inline-block; 
+    padding:20px 30px; 
+    color: white; 
+    background-color: orange; 
+    text-align: center; 
+    cursor: pointer
+    
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 2em;
+}
+.masthead-heading {
+    color: #424242;
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+.masthead {
+    padding: 6em 0;
+    background-image: url(https://2uy7xawu7lg2zqdax41x9oc1-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/iStock-501537357-Copy-1024x576.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: solid 1em #FFCF33;
+  }
+  .masthead-intro {
+    margin-bottom: 0.1em;
+    font-family: "Gentium Book Basic", Georgia, serif;
+      font-size: 2em;
+  }
+  .masthead-heading {
+    margin-top: -0.2em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 5em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+  }

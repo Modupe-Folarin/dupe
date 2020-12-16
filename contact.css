@@ -115,3 +115,10 @@ fieldset {
 :-ms-input-placeholder {
  color:#888;
 }
+#main-footer{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
